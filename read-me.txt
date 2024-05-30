@@ -1,0 +1,1 @@
+This is a collection of code snippets involving Emacs, mostly configuration, that I've found useful. Most of it I've found here and there on the Internet from open-source sources. I collect it here merely for my own convenient reference.
